@@ -3,6 +3,6 @@
 | Difficulty | Solved |
 |------------|--------|
 | Easy       | 07     |
-| Medium     | 02     |
+| Medium     | 03     |
 | Hard       | 0      |
-| Total      | 08     |
+| Total      | 10     |
