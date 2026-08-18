@@ -2,7 +2,7 @@
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 09     |
+| Easy       | 10     |
 | Medium     | 03     |
 | Hard       | 0      |
-| Total      | 12     |
+| Total      | 13     |
