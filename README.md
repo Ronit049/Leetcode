@@ -559,6 +559,11 @@ Key Insight
 ```
 
 ---
+### 🧠 Problem-Solving Approach
+
+The [`Approach/`](https://github.com/Ronit049/Leetcode/tree/main/Approach) folder contains my visual problem-solving notes and handwritten approaches for selected LeetCode problems, documenting the thought process and logic I use before writing the final solution.
+
+---
 
 # 📈 Progress Tracking
 
