@@ -889,5 +889,5 @@ Every solved problem is another step toward becoming a stronger software develop
 </p>
 
 <p align="center">
-  Made with ❤️ for the DSA journey.
+  Made with ❤️ and tea ☕ for the DSA journey.
 </p>
