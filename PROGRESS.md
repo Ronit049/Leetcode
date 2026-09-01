@@ -3,12 +3,12 @@
 | Difficulty | Solved |
 |------------|--------|
 | Easy       | 13     |
-| Medium     | 10     |
+| Medium     | 11     |
 | Hard       | 03     |
 <<<<<<< HEAD
 | Total      | 17     |
 =======
-| Total      | 26     |
+| Total      | 27     |
 >>>>>>> 5b611f0 (updating)
 # 📈 LeetCode Progress
 
