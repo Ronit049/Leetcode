@@ -2,13 +2,13 @@
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 12     |
+| Easy       | 13     |
 | Medium     | 10     |
 | Hard       | 03     |
 <<<<<<< HEAD
 | Total      | 17     |
 =======
-| Total      | 25     |
+| Total      | 26     |
 >>>>>>> 5b611f0 (updating)
 # 📈 LeetCode Progress
 
@@ -20,10 +20,10 @@
 
 | Difficulty | Solved |  Target |    Progress   |
 | :--------: | :----: | :-----: | :-----------: |
-|   🟢 Easy  |   12   |   150   | ░░░░░░░░░░ 0% |
+|   🟢 Easy  |   13   |   150   | ░░░░░░░░░░ 0% |
 |  🟡 Medium |   10   |   200   | ░░░░░░░░░░ 0% |
 |   🔴 Hard  |   03   |   100   | ░░░░░░░░░░ 0% |
-|  **Total** |  **25** | **450** |     **0%**    |
+|  **Total** |  **26** | **450** |     **0%**    |
 
 > Update the numbers regularly as you solve more problems.
 
