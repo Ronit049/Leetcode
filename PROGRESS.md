@@ -2,14 +2,10 @@
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 14     |
+| Easy       | 15     |
 | Medium     | 11     |
 | Hard       | 03     |
-<<<<<<< HEAD
-| Total      | 17     |
-=======
-| Total      | 28     |
->>>>>>> 5b611f0 (updating)
+| Total      | 29     |
 # 📈 LeetCode Progress
 
 > **My journey of mastering Data Structures & Algorithms through consistent problem solving.**
