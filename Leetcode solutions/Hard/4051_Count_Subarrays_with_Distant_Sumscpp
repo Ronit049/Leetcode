@@ -1,0 +1,25 @@
+#include <ext/pb_ds/assoc_container.hpp>
+#include <ext/pb_ds/tree_policy.hpp>
+
+using namespace std;
+using namespace __gnu_pbds;
+
+template<typename T>
+using ordered_set = tree<T, null_type, less_equal<T>, rb_tree_tag, tree_order_statistics_node_update>;  // find_by_order, order_of_key
+
+class Solution {
+public:
+    long long distantSubarrays(vector<int>& nums, int goal, int k) {
+        ordered_set<long> s;
+        s.insert(0);
+        long sum=0,inverse=0;
+        for(int &i:nums) {
+            sum+=i;
+            long left=sum-goal-k+1,right=sum-goal+k-1;
+            long leftCount=s.order_of_key(left),rightCount=s.order_of_key(right+1);
+            inverse+=max(0L,rightCount-leftCount);
+            s.insert(sum);
+        }
+        return (nums.size()*1L*(nums.size()+1))/2-inverse;
+    }
+};
