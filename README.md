@@ -8,6 +8,10 @@
 </p>
 
 <p align="center">
+  <img src="https://leetcard.jacoblin.cool/its_rsr049?theme=dark&font=Karma&ext=contest" />
+</p>
+
+<p align="center">
   <b>A structured collection of my LeetCode solutions, DSA practice, problem-solving approaches, and algorithmic learning journey.</b>
 </p>
 
