@@ -183,6 +183,8 @@ Leetcode-Solutions/
 <p align="center">
   <img src="./diagram_repo.png" alt="LeetCode Repository Diagram" width="800">
 </p>
+
+link - https://gitdiagram.com/ronit049/leetcode
 ---
 # 🧠 Solution Format
 
