@@ -178,7 +178,12 @@ Leetcode-Solutions/
 > The folder structure may evolve as the repository grows.
 
 ---
+<h2 align="center">📊 LeetCode Repository Structure</h2>
 
+<p align="center">
+  <img src="./diagram_repo.png" alt="LeetCode Repository Diagram" width="800">
+</p>
+---
 # 🧠 Solution Format
 
 Each solution aims to follow a consistent structure.
