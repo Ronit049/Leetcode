@@ -2,10 +2,10 @@
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 25     |
-| Medium     | 22     |
-| Hard       | 09     |
-| Total      | 56     |
+| Easy       | 27     |
+| Medium     | 25     |
+| Hard       | 11     |
+| Total      | 63     |
 # 📈 LeetCode Progress
 
 > **My journey of mastering Data Structures & Algorithms through consistent problem solving.**
@@ -16,10 +16,10 @@
 
 | Difficulty | Solved |  Target |    Progress   |
 | :--------: | :----: | :-----: | :-----------: |
-|   🟢 Easy  |   25   |   150   | ░░░░░░░░░░ 0% |
-|  🟡 Medium |   22   |   200   | ░░░░░░░░░░ 0% |
-|   🔴 Hard  |   09   |   100   | ░░░░░░░░░░ 0% |
-|  **Total** |  **56** | **450** |     **0%**    |
+|   🟢 Easy  |   27   |   150   | ░░░░░░░░░░ 0% |
+|  🟡 Medium |   25   |   200   | ░░░░░░░░░░ 0% |
+|   🔴 Hard  |   22   |   100   | ░░░░░░░░░░ 0% |
+|  **Total** |  **63** | **450** |     **0%**    |
 
 > Update the numbers regularly as you solve more problems.
 
