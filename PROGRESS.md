@@ -2,10 +2,10 @@
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 27     |
-| Medium     | 25     |
-| Hard       | 11     |
-| Total      | 63     |
+| Easy       | 32     |
+| Medium     | 30     |
+| Hard       | 17     |
+| Total      | 79     |
 # 📈 LeetCode Progress
 
 > **My journey of mastering Data Structures & Algorithms through consistent problem solving.**
