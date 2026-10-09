@@ -1,0 +1,11 @@
+Q1 - ```Rotate String Explanation: Given two strings s and goal, return true if and only if s can become goal after some number of shifts on s. A shift on s consists of moving the leftmost character of s to the rightmost position. For example, if s = "abcde", then it will be "bcdea" after one shift. Examples: ● Input: s = "abcde", goal = "cdeab" Output: true ● Input: s = "abcde", goal = "abced" Output: false```
+ Q2 - ```Pascal's Triangle Explanation: Given an integer numRows, return the first numRows of Pascal's triangle. In Pascal's triangle, each number is the sum of the two numbers directly above it. Examples: ● Input: numRows = 5 Output: [[1],[1,1],[1,2,1],[1,3,3,1],[1,4,6,4,1]] ● Input: numRows = 1 Output: [[1]] ```
+ ---
+Q3 - ```Longest Common Prefix Explanation: Write a function to find the longest common prefix string amongst an array of strings. If there is no common prefix, return an empty string "". Examples: ● Input: strs = ["flower","flow","flight"] Output: "fl" ● Input: strs = ["dog","racecar","car"] Output: "" Explanation: There is no common prefix among the input strings.)```
+---
+Q4 - ```Power of (x, y) Explanation: Implement pow(x, n), which calculates x raised to the power n (i.e., x^n). You must write this algorithm without using the built-in power or exponentiation functions provided by your programming language. Examples: ● Input: x = 2.00000, n = 10 Output: 1024.00000 ● Input: x = 2.00000, n = -2 Output: 0.25000 Explanation: 2^2 = 1/2^2 = 1/4 = 0.25```
+---
+Q5 -``` Valid Parentheses Explanation: Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid. An input string is valid if open brackets are closed by the same type of brackets, and they are closed in the correct order. Examples: ● Input: s = "()[]{}" Output: true ● Input: s = "(]" Output: false ```
+---
+Q6 - ```Climbing Stairs Explanation: You are climbing a staircase. It takes n steps to reach the top. Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top? Examples: ● Input: n = 2 Output: 2 Explanation: There are two ways to climb to the top: 1 step + 1 step, or 2 steps.) ● Input: n = 3 Output: 3 Explanation: 1 step + 1 step + 1 step, 1 step + 2 steps, or 2 steps + 1 step.) ```
+---
