@@ -190,7 +190,7 @@ Please make sure your code is:
 * Properly indented
 * Consistent with the language style
 * Tested before submission
-
+* For every one
 Avoid:
 
 ```python
