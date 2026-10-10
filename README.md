@@ -178,6 +178,14 @@ Leetcode-Solutions/
 > The folder structure may evolve as the repository grows.
 
 ---
+## 🏆 LeetCode 50 Days Badge 2026
+
+Proud to complete **50+ days of solving problems on LeetCode in 2026**! 🔥
+
+![LeetCode 50 Days Badge 2026](leetcode_screenshot.png)
+
+> Consistency is the key — one problem, one day at a time. 💻🚀
+---
 <h2 align="center">📊 LeetCode Repository Structure</h2>
 
 <p align="center">
