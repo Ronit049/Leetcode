@@ -211,7 +211,6 @@ Solutions can be contributed in commonly used programming languages, including:
 * C++
 * Java
 * JavaScript
-* TypeScript
 * C
 
 When possible, use the language's standard conventions.
