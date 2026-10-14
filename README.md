@@ -17,6 +17,7 @@
 
 ---
 
+---
 ## 📌 About This Repository
 
 Welcome to my **LeetCode Solutions** repository! 🚀
@@ -193,6 +194,10 @@ Proud to complete **50+ days of solving problems on LeetCode in 2026**! 🔥
 </p>
 
 link - https://gitdiagram.com/ronit049/leetcode
+---
+<p align="center">
+  <img src="hackerrank-orchestrate-october26-badge.gif" alt="HackerRank Orchestrate October 2026 Badge" width="700">
+</p>
 ---
 # 🧠 Solution Format
 
