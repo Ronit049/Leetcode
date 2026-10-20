@@ -1,0 +1,821 @@
+
+1. Two Sum
+58.0%
+Easy
+
+4. Median of Two Sorted Arrays
+47.9%
+Hard
+
+11. Container With Most Water
+61.0%
+Med.
+
+14. Longest Common Prefix
+48.5%
+Easy
+
+15. 3Sum
+40.1%
+Med.
+
+16. 3Sum Closest
+47.7%
+Med.
+
+18. 4Sum
+41.9%
+Med.
+
+26. Remove Duplicates from Sorted Array
+64.0%
+Easy
+
+27. Remove Element
+62.7%
+Easy
+
+31. Next Permutation
+46.4%
+Med.
+
+33. Search in Rotated Sorted Array
+45.8%
+Med.
+
+34. Find First and Last Position of Element in Sorted Array
+49.8%
+Med.
+
+35. Search Insert Position
+52.5%
+Easy
+
+36. Valid Sudoku
+65.3%
+Med.
+
+37. Sudoku Solver
+65.5%
+Hard
+
+39. Combination Sum
+77.3%
+Med.
+
+40. Combination Sum II
+60.3%
+Med.
+
+41. First Missing Positive
+44.0%
+Hard
+
+42. Trapping Rain Water
+68.4%
+Hard
+
+45. Jump Game II
+43.7%
+Med.
+
+46. Permutations
+82.4%
+Med.
+
+47. Permutations II
+64.4%
+Med.
+
+48. Rotate Image
+80.8%
+Med.
+
+49. Group Anagrams
+73.4%
+Med.
+
+51. N-Queens
+76.7%
+Hard
+
+53. Maximum Subarray
+54.0%
+Med.
+
+54. Spiral Matrix
+58.1%
+Med.
+
+55. Jump Game
+41.7%
+Med.
+
+56. Merge Intervals
+53.0%
+Med.
+
+57. Insert Interval
+46.2%
+Med.
+
+59. Spiral Matrix II
+76.0%
+Med.
+
+63. Unique Paths II
+45.2%
+Med.
+
+64. Minimum Path Sum
+69.0%
+Med.
+
+66. Plus One
+50.8%
+Easy
+
+68. Text Justification
+52.5%
+Hard
+
+73. Set Matrix Zeroes
+63.8%
+Med.
+
+74. Search a 2D Matrix
+54.3%
+Med.
+
+75. Sort Colors
+70.3%
+Med.
+
+78. Subsets
+82.9%
+Med.
+
+79. Word Search
+48.3%
+Med.
+
+80. Remove Duplicates from Sorted Array II
+65.4%
+Med.
+
+81. Search in Rotated Sorted Array II
+40.7%
+Med.
+
+84. Largest Rectangle in Histogram
+51.1%
+Hard
+
+85. Maximal Rectangle
+60.1%
+Hard
+
+88. Merge Sorted Array
+55.9%
+Easy
+
+90. Subsets II
+62.1%
+Med.
+
+105. Construct Binary Tree from Preorder and Inorder Traversal
+69.7%
+Med.
+
+106. Construct Binary Tree from Inorder and Postorder Traversal
+69.8%
+Med.
+
+108. Convert Sorted Array to Binary Search Tree
+76.2%
+Easy
+
+118. Pascal's Triangle
+79.5%
+Easy
+
+119. Pascal's Triangle II
+68.2%
+Easy
+
+120. Triangle
+60.0%
+Med.
+
+121. Best Time to Buy and Sell Stock
+57.5%
+Easy
+
+122. Best Time to Buy and Sell Stock II
+71.8%
+Med.
+
+123. Best Time to Buy and Sell Stock III
+55.0%
+Hard
+
+128. Longest Consecutive Sequence
+47.3%
+Med.
+
+130. Surrounded Regions
+46.5%
+Med.
+
+134. Gas Station
+48.9%
+Med.
+
+135. Candy
+49.4%
+Hard
+
+136. Single Number
+78.4%
+Easy
+
+137. Single Number II
+68.1%
+Med.
+
+139. Word Break
+50.0%
+Med.
+
+140. Word Break II
+56.4%
+Hard
+
+149. Max Points on a Line
+31.6%
+Hard
+
+150. Evaluate Reverse Polish Notation
+59.0%
+Med.
+
+152. Maximum Product Subarray
+37.2%
+Med.
+
+153. Find Minimum in Rotated Sorted Array
+55.5%
+Med.
+
+154. Find Minimum in Rotated Sorted Array II
+47.2%
+Hard
+
+157. Read N Characters Given Read4
+42.6%
+Easy
+
+158. Read N Characters Given read4 II - Call Multiple Times
+43.4%
+Hard
+
+162. Find Peak Element
+47.3%
+Med.
+
+163. Missing Ranges
+35.7%
+Easy
+
+164. Maximum Gap
+53.4%
+Med.
+
+167. Two Sum II - Input Array Is Sorted
+66.0%
+Med.
+
+169. Majority Element
+66.5%
+Easy
+
+170. Two Sum III - Data structure design
+39.3%
+Easy
+
+174. Dungeon Game
+42.5%
+Hard
+
+179. Largest Number
+44.0%
+Med.
+
+188. Best Time to Buy and Sell Stock IV
+51.6%
+Hard
+
+189. Rotate Array
+45.7%
+Med.
+
+198. House Robber
+53.7%
+Med.
+
+200. Number of Islands
+65.3%
+Med.
+
+204. Count Primes
+35.8%
+Med.
+
+209. Minimum Size Subarray Sum
+53.2%
+Med.
+
+212. Word Search II
+39.0%
+Hard
+
+213. House Robber II
+45.7%
+Med.
+
+215. Kth Largest Element in an Array
+69.4%
+Med.
+
+216. Combination Sum III
+73.9%
+Med.
+
+217. Contains Duplicate
+64.8%
+Easy
+
+218. The Skyline Problem
+46.2%
+Hard
+
+219. Contains Duplicate II
+52.1%
+Easy
+
+220. Contains Duplicate III
+25.4%
+Hard
+
+221. Maximal Square
+51.1%
+Med.
+
+228. Summary Ranges
+54.9%
+Easy
+
+229. Majority Element II
+56.9%
+Med.
+
+238. Product of Array Except Self
+69.4%
+Med.
+
+239. Sliding Window Maximum
+49.4%
+Hard
+
+240. Search a 2D Matrix II
+58.3%
+Med.
+
+243. Shortest Word Distance
+66.4%
+Easy
+
+244. Shortest Word Distance II
+63.1%
+Med.
+
+245. Shortest Word Distance III
+59.6%
+Med.
+
+247. Strobogrammatic Number II
+53.6%
+Med.
+
+248. Strobogrammatic Number III
+42.7%
+Hard
+
+249. Group Shifted Strings
+67.9%
+Med.
+
+251. Flatten 2D Vector
+50.6%
+Med.
+
+252. Meeting Rooms
+59.6%
+Easy
+
+253. Meeting Rooms II
+52.8%
+Med.
+
+255. Verify Preorder Sequence in Binary Search Tree
+51.9%
+Med.
+
+256. Paint House
+64.6%
+Med.
+
+259. 3Sum Smaller
+51.4%
+Med.
+
+260. Single Number III
+70.1%
+Med.
+
+265. Paint House II
+57.3%
+Hard
+
+268. Missing Number
+72.9%
+Easy
+
+269. Alien Dictionary
+37.4%
+Hard
+
+271. Encode and Decode Strings
+52.1%
+Med.
+
+274. H-Index
+42.0%
+Med.
+
+275. H-Index II
+40.2%
+Med.
+
+280. Wiggle Sort
+68.5%
+Med.
+
+281. Zigzag Iterator
+67.2%
+Med.
+
+283. Move Zeroes
+64.5%
+Easy
+
+284. Peeking Iterator
+62.1%
+Med.
+
+286. Walls and Gates
+64.2%
+Med.
+
+287. Find the Duplicate Number
+65.0%
+Med.
+
+288. Unique Word Abbreviation
+28.1%
+Med.
+
+289. Game of Life
+73.1%
+Med.
+
+296. Best Meeting Point
+61.5%
+Hard
+
+300. Longest Increasing Subsequence
+60.1%
+Med.
+
+302. Smallest Rectangle Enclosing Black Pixels
+61.0%
+Hard
+
+303. Range Sum Query - Immutable
+73.8%
+Easy
+
+304. Range Sum Query 2D - Immutable
+59.2%
+Med.
+
+305. Number of Islands II
+40.8%
+Hard
+
+307. Range Sum Query - Mutable
+44.0%
+Med.
+
+308. Range Sum Query 2D - Mutable
+46.0%
+Med.
+
+309. Best Time to Buy and Sell Stock with Cooldown
+62.9%
+Med.
+
+311. Sparse Matrix Multiplication
+69.4%
+Med.
+
+312. Burst Balloons
+64.6%
+Hard
+
+313. Super Ugly Number
+46.8%
+Med.
+
+315. Count of Smaller Numbers After Self
+44.2%
+Hard
+
+317. Shortest Distance from All Buildings
+45.0%
+Hard
+
+318. Maximum Product of Word Lengths
+61.7%
+Med.
+
+321. Create Maximum Number
+37.5%
+Hard
+
+322. Coin Change
+49.3%
+Med.
+
+324. Wiggle Sort II
+38.6%
+Med.
+
+325. Maximum Size Subarray Sum Equals k
+51.0%
+Med.
+
+327. Count of Range Sum
+40.2%
+Hard
+
+329. Longest Increasing Path in a Matrix
+57.2%
+Hard
+
+330. Patching Array
+54.9%
+Hard
+
+332. Reconstruct Itinerary
+45.1%
+Hard
+
+334. Increasing Triplet Subsequence
+39.7%
+Med.
+
+335. Self Crossing
+36.9%
+Hard
+
+336. Palindrome Pairs
+37.7%
+Hard
+
+346. Moving Average from Data Stream
+80.2%
+Easy
+
+347. Top K Frequent Elements
+67.6%
+Med.
+
+348. Design Tic-Tac-Toe
+58.8%
+Med.
+
+349. Intersection of Two Arrays
+78.5%
+Easy
+
+350. Intersection of Two Arrays II
+60.5%
+Easy
+
+353. Design Snake Game
+40.1%
+Med.
+
+354. Russian Doll Envelopes
+38.3%
+Hard
+
+356. Line Reflection
+36.4%
+Med.
+
+360. Sort Transformed Array
+58.3%
+Med.
+
+361. Bomb Enemy
+52.9%
+Med.
+
+362. Design Hit Counter
+69.8%
+Med.
+
+363. Max Sum of Rectangle No Larger Than K
+46.2%
+Hard
+
+368. Largest Divisible Subset
+50.2%
+Med.
+
+370. Range Addition
+73.1%
+Med.
+
+373. Find K Pairs with Smallest Sums
+42.5%
+Med.
+
+376. Wiggle Subsequence
+49.9%
+Med.
+
+377. Combination Sum IV
+55.4%
+Med.
+
+378. Kth Smallest Element in a Sorted Matrix
+65.2%
+Med.
+
+379. Design Phone Directory
+53.3%
+Med.
+
+380. Insert Delete GetRandom O(1)
+55.6%
+Med.
+
+381. Insert Delete GetRandom O(1) - Duplicates allowed
+37.2%
+Hard
+
+384. Shuffle an Array
+60.1%
+Med.
+
+391. Perfect Rectangle
+39.7%
+Hard
+
+393. UTF-8 Validation
+46.9%
+Med.
+
+396. Rotate Function
+54.0%
+Med.
+
+399. Evaluate Division
+64.7%
+Med.
+
+403. Frog Jump
+47.7%
+Hard
+
+406. Queue Reconstruction by Height
+75.1%
+Med.
+
+407. Trapping Rain Water II
+64.3%
+Hard
+
+410. Split Array Largest Sum
+61.6%
+Hard
+
+411. Minimum Unique Word Abbreviation
+40.6%
+Hard
+
+413. Arithmetic Slices
+65.0%
+Med.
+
+414. Third Maximum Number
+40.6%
+Easy
+
+416. Partition Equal Subset Sum
+50.1%
+Med.
+
+417. Pacific Atlantic Water Flow
+61.6%
+Med.
+
+418. Sentence Screen Fitting
+36.4%
+Med.
+
+419. Battleships in a Board
+77.9%
+Med.
+
+421. Maximum XOR of Two Numbers in an Array
+53.8%
+Med.
+
+422. Valid Word Square
+43.0%
+Easy
+
+425. Word Squares
+54.8%
+Hard
+
+427. Construct Quad Tree
+78.8%
+Med.
+
+435. Non-overlapping Intervals
+57.9%
+Med.
+
+436. Find Right Interval
+56.8%
+Med.
+
+442. Find All Duplicates in an Array
+77.2%
+Med.
+
+444. Sequence Reconstruction
+31.2%
+Med.
+
+446. Arithmetic Slices II - Subsequence
+55.4%
+Hard
+
+447. Number of Boomerangs
+58.3%
+Med.
+
+448. Find All Numbers Disappeared in an Array
+64.7%
+Easy
+
+452. Minimum Number of Arrows to Burst Balloons
+62.0%
+Med.
+
+453. Minimum Moves to Equal Array Elements
+59.3%
+Med.
+
+454. 4Sum II
+58.3%
+Med.
+
+455. Assign Cookies
+55.6%
+Easy
+
+456. 132 Pattern
+35.2%
+Med.
+
+457. Circular Array Loop
+38.8%
+Med.
+
