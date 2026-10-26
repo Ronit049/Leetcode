@@ -200,6 +200,7 @@ Avoid:
 ```
 
 Prefer clean and readable implementations.
+all questions update daily
 
 ---
 
