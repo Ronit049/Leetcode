@@ -99,9 +99,9 @@
 
 ## 💻 Languages
 
-| Language  |    Usage    |
-| --------- | :---------: |
-| 🐍 Python | 🔄 Learning |
+| Language    |    Usage    |
+| ---------   | :---------: |
+| 🐍 Python  | 🔄 Learning |
 | ⚡ C++     | 🔄 Learning |
 | ☕ Java    |  ⏳ Pending  |
 
