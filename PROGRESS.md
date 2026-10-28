@@ -16,10 +16,10 @@
 
 | Difficulty | Solved |  Target |    Progress   |
 | :--------: | :----: | :-----: | :-----------: |
-|   🟢 Easy  |   27   |   150   | ░░░░░░░░░░ 0% |
-|  🟡 Medium |   25   |   200   | ░░░░░░░░░░ 0% |
-|   🔴 Hard  |   22   |   100   | ░░░░░░░░░░ 0% |
-|  **Total** |  **63** | **450** |     **0%**    |
+|   🟢 Easy  |   45   |   150   | ░░░░░░░░░░ 0% |
+|  🟡 Medium |   53   |   200   | ░░░░░░░░░░ 0% |
+|   🔴 Hard  |   24   |   100   | ░░░░░░░░░░ 0% |
+|  **Total** |  **122** | **450** |     **0%**    |
 
 > Update the numbers regularly as you solve more problems.
 
